@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-militech/",
+    "build": "vite build --base=/96_html_css_Ziraelly/",
     "preview": "vite preview"
   },
   "devDependencies": {
